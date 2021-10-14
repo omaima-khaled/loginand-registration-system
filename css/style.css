@@ -30,3 +30,7 @@ h1{
     background-position: center center;
     background-size: cover;
 }
+.name{
+  right: 10px;
+  bottom: 10px;
+}
